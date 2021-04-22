@@ -1,6 +1,6 @@
 # personal_project_finance
 
-## * Analyze stock market data
+## *Analyze stock market data
 ## * Analyze company Information
 ## Analyze Future,option data
 ## Optimization of stock diversification
